@@ -12,7 +12,9 @@ namespace CursoMVC.Models
     {
 
         public DbSet<Categoria> Categorias { get; set; }   // -> Falar que ira ser criado a tabela (categoria)
- 
+
+        public DbSet<Produto> Produtos { get; set; }   // -> Falar que ira ser criado a tabela (produtos)
+
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
