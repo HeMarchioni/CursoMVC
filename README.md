@@ -2,4 +2,4 @@
 
 ## Conheça o Entity Framework e crie aplicações ASP.NET
 
-Aplicação ASP .NET core MVC , para cadastro de Produtos
+Aplicação ASP .NET core MVC e ASP .NET API, para cadastro de Produtos
